@@ -128,20 +128,6 @@ class Disha:
 </table>
 </div>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=disha-dee&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e9d5ff&icon_color=a78bfa"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disha-dee&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e9d5ff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=disha-dee&theme=midnight-purple&hide_border=true&background=0d1117&ring=a855f7&fire=d818ff&currStreakLabel=a78bfa" width="70%"/>
-</div>
-
----
 
 
 
@@ -159,8 +145,7 @@ class Disha:
 
 <div align="center">
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e07f7,50:a855f7,100:d318ff&height=120&section=footer" width="100%"/>
+
 
 **💜 Always learning • Always building • Always growing 💜**
 
