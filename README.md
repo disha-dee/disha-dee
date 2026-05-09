@@ -143,25 +143,7 @@ class Disha:
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/disha-dee/disha-dee/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/disha-dee/disha-dee/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/disha-dee/disha-dee/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=disha-dee&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
-</div>
-
----
 
 ## 🌐 Connect With Me
 
