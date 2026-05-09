@@ -1,4 +1,4 @@
-```md id="t3f8qp"
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d8b4fe,50:a78bfa,100:f9a8d4&height=260&section=header&text=Disha%20Chandra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20•%20Data%20Analyst%20•%20Backend%20Developer&descAlignY=58"/>
