@@ -15,7 +15,7 @@
 # 🌸 About Me
 
 ```python
-class KdishaChandra:
+class dishaChandra:
 
     role = "Aspiring Data Engineer"
 
