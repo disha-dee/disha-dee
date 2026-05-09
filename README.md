@@ -1,87 +1,147 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=36&duration=4000&pause=1000&color=D8B4FE&center=true&vCenter=true&width=1000&height=80&lines=Disha+Chandra;Data+Engineer+•+Data+Analyst;Crafting+Beautiful+Data+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=40&duration=4000&pause=1000&color=D8B4FE&center=true&vCenter=true&width=1000&height=100&lines=👋+Hi+I'm+Disha+Chandra;Data+Engineer+%26+Analyst;Building+Beautiful+Data+Solutions" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 👋 Hey there!
+<div align="center">
 
-I'm **Disha** — a Data Engineer and Analyst who turns complex data into elegant insights. I believe in building systems that are not just powerful, but also beautiful and maintainable.
+<img width="280" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="code animation"/>
 
-### What I do
-- 🏗️ **Design & build** scalable data pipelines with Python, PySpark, and Airflow
-- 📊 **Transform** raw data into actionable analytics dashboards with Power BI
-- 🔌 **Develop** clean, tested backend APIs with FastAPI
-- 🎯 **Optimize** data workflows across the entire stack
+</div>
 
 ---
 
-## ⚡ My Stack
+<h2 align="center">🌸 About Me</h2>
 
-```
-Languages       → Python, SQL, VBA
-Engineering     → PySpark, Databricks, Airflow, dbt, Azure Data Factory
-Analytics       → Power BI, Pandas, NumPy, Excel
-Backend         → FastAPI, SQLAlchemy, Pydantic, REST APIs
-Databases       → MySQL, SQLite
-DevOps/Tools    → Git, GitHub, VS Code
-```
+I'm a **Data Engineer & Analyst** who transforms complex data into elegant, actionable insights. I believe in building systems that are not just powerful, but also beautiful, maintainable, and user-focused.
 
-### Skills at a glance
-- **Python & SQL** — 92% — The foundation of everything
-- **PySpark & Databricks** — 85% — Large-scale distributed processing
-- **Airflow & Pipelines** — 80% — Orchestration and scheduling
-- **Power BI & Analytics** — 75% — Data visualization and insights
-- **FastAPI & Backend** — 70% — Building robust APIs
+<details open>
+<summary><b>What I Do</b></summary>
+
+- 🏗️ **Design & build** scalable data pipelines with Python, PySpark, and Airflow
+- 📊 **Transform** raw data into stunning analytics dashboards with Power BI  
+- 🔌 **Develop** clean, tested backend APIs with FastAPI
+- 🎯 **Optimize** data workflows across the entire stack
+- ✨ **Create** solutions that marry technical excellence with beautiful design
+
+</details>
+
+---
+
+## ⚡ My Tech Stack
+
+<details>
+<summary><b>Languages & Frameworks</b></summary>
+
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Data Engineering</b></summary>
+
+![PySpark](https://img.shields.io/badge/PySpark-E38C00?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Analytics & Visualization</b></summary>
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Backend & APIs</b></summary>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-00C7B7?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
+
+</details>
+
+<details>
+<summary><b>Databases & Tools</b></summary>
+
+![MySQL](https://img.shields.io/badge/MySQL-336791?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</details>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔷 Smart Task API
-> Backend task management system — clean, tested, production-ready.
+> Backend task management system — clean architecture, fully tested, production-ready.
 
-A FastAPI application with JWT authentication, full CRUD operations, and comprehensive Pytest coverage. This project demonstrates clean architecture, proper error handling, and ORM best practices.
+A **FastAPI** application demonstrating best practices:
+- JWT authentication with secure token management
+- Full CRUD operations with SQLAlchemy ORM
+- Comprehensive Pytest test coverage
+- Clean code with proper error handling
 
-**Stack:** `FastAPI` `SQLAlchemy ORM` `SQLite` `Pydantic` `Pytest`
+**Tech Stack:** `FastAPI` `SQLAlchemy` `SQLite` `Pydantic` `Pytest`
 
-🔗 [View on GitHub →](https://github.com/disha-dee/smart-task-api)
+**[→ View Repository](https://github.com/disha-dee/smart-task-api)**
 
 ---
 
 ### 📡 Weather Data Pipeline
-> Automated ETL pipeline that fetches, validates, and stores weather data.
+> Automated ETL pipeline with scheduled data ingestion and validation.
 
-An Apache Airflow-orchestrated pipeline that ingests weather data from public REST APIs, applies validation layers, and outputs clean, analysis-ready datasets. Demonstrates scheduled data ingestion, error handling, and data quality checks.
+An **Apache Airflow** orchestrated pipeline that:
+- Fetches weather data from public REST APIs on schedule
+- Applies multi-layer validation checks
+- Outputs clean, analysis-ready datasets
+- Handles failures gracefully with retry logic
 
-**Stack:** `Python` `Apache Airflow` `REST APIs` `Data Validation`
+**Tech Stack:** `Python` `Apache Airflow` `REST APIs` `Data Validation`
 
 ---
 
 ### ⚡ Employee Attendance Analytics Pipeline
-> Large-scale distributed attendance processing on Databricks.
+> Large-scale distributed processing with advanced analytics.
 
-Built with PySpark on Databricks, this pipeline processes millions of attendance records into structured analytics — calculating overtime, identifying patterns, and detecting anomalies. Optimized for distributed computing and partitioned for query efficiency.
+Built with **PySpark** on **Databricks**:
+- Processes millions of attendance records efficiently
+- Calculates overtime, patterns, and anomalies
+- Optimized with intelligent partitioning
+- Query-optimized for fast analytics
 
-**Stack:** `PySpark` `Databricks` `Spark SQL` `Data Transformations`
+**Tech Stack:** `PySpark` `Databricks` `Spark SQL` `Data Transformations`
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=disha-dee&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f172a&title_color=a78bfa&text_color=e9d5ff&icon_color=d8b4fe"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=disha-dee&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f172a&title_color=a78bfa&text_color=e9d5ff&icon_color=d8b4fe)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disha-dee&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f172a&title_color=a78bfa&text_color=e9d5ff"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=disha-dee&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f172a&title_color=a78bfa&text_color=e9d5ff)
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=disha-dee&theme=midnight-purple&hide_border=true&background=0f172a&ring=a78bfa&fire=d8b4fe&sideNums=e9d5ff"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=disha-dee&theme=midnight-purple&hide_border=true&background=0f172a&ring=a78bfa&fire=d8b4fe&sideNums=e9d5ff)
 
 </div>
 
@@ -97,15 +157,26 @@ Built with PySpark on Databricks, this pipeline processes millions of attendance
 
 ---
 
-## 🌸 Core Values
+## 💡 Core Values
 
-**Clean Code** — Readable, maintainable, well-tested code is a gift to future developers (including myself).
+| Value | What it means to me |
+|-------|-------------------|
+| **Clean Code** | Readable, tested, maintainable code is a gift to future developers |
+| **Data Quality** | Garbage in, garbage out — I obsess over validation & integrity |
+| **Learning** | The data world moves fast — I stay curious & evolve constantly |
+| **Communication** | Technical excellence means nothing if insights don't reach stakeholders |
 
-**Data Quality** — Garbage in, garbage out. I obsess over data validation and integrity.
+---
 
-**Continuous Learning** — The data world moves fast. I stay curious and keep evolving my skills.
+## 🌸 Skills Breakdown
 
-**Communication** — Technical excellence means nothing if insights don't reach the decision-makers.
+```
+Python & SQL            ████████████████████░ 92%
+PySpark & Databricks    █████████████████░░░░ 85%
+Airflow & Pipelines     ████████████████░░░░░ 80%
+Power BI & Analytics    ███████████████░░░░░░ 75%
+FastAPI & Backend       ██████████████░░░░░░░ 70%
+```
 
 ---
 
@@ -113,9 +184,9 @@ Built with PySpark on Databricks, this pipeline processes millions of attendance
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0f172a)](https://www.linkedin.com/in/disha-chandra-285b3317b/)
-[![GitHub](https://img.shields.io/badge/GitHub-d8b4fe?style=for-the-badge&logo=github&logoColor=0f172a)](https://github.com/disha-dee)
-[![Email](https://img.shields.io/badge/Email-c084fc?style=for-the-badge&logo=gmail&logoColor=0f172a)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/disha-chandra-285b3317b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/disha-dee)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
@@ -123,10 +194,20 @@ Built with PySpark on Databricks, this pipeline processes millions of attendance
 
 <div align="center">
 
+### 💜 Building data pipelines with intention and care
+
+**Always excited about collaborating on interesting data projects!**
+
 ```
-✨ Building data pipelines, one insight at a time ✨
+∞ Python • PySpark • Airflow • Data Engineering ∞
 ```
 
-**Always open to collaborations and interesting data projects!**
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=disha-dee&color=D8B4FE&style=flat-square&label=Profile+Views)
 
 </div>
