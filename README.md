@@ -22,13 +22,38 @@
 
 ```python
 class Disha:
-    name       = "Disha Chandra"
-    role       = ["Data Engineer", "Data Analyst", "Backend Developer"]
-    location   = "India 🇮🇳"
-    tech_stack = ["Python", "PySpark", "FastAPI", "SQL", "Azure"]
-    interests  = ["Scalable Pipelines", "Clean APIs", "Data Visualization"]
-    currently  = "Exploring Databricks & Cloud Data Architectures ☁️"
-    fun_fact   = "I see patterns everywhere — even outside data 😄"
+   class Disha:
+    name = "Disha Chandra"
+
+    role = [
+        "Data Engineer",
+        "Data Analyst"
+    ]
+
+    location = "India 🇮🇳"
+
+    tech_stack = [
+        "Python",
+        "SQL",
+        "PySpark",
+        "Databricks",
+        "Apache Airflow",
+        "dbt",
+        "Delta Lake",
+        "Streamlit",
+        "Gemini AI"
+    ]
+
+    interests = [
+        "ETL Pipelines",
+        "Data Lakehouses",
+        "Cloud Technologies",
+        "Backend Systems"
+    ]
+
+    currently = "Building AI-powered data engineering projects 🚀"
+
+    fun_fact = "Coffee ☕ + Data 📊 = My favourite workflow."
 ```
 
 - 🔭 Building scalable data pipelines & elegant backend systems
