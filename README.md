@@ -21,38 +21,12 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" alt="Coder GIF"/>
 
 ```python
-class Disha:
-   class Disha:
     name = "Disha Chandra"
-
-    role = [
-        "Data Engineer",
-        "Data Analyst"
-    ]
-
+    role = [ "Data Engineer","Data Analyst" ]
     location = "India 🇮🇳"
-
-    tech_stack = [
-        "Python",
-        "SQL",
-        "PySpark",
-        "Databricks",
-        "Apache Airflow",
-        "dbt",
-        "Delta Lake",
-        "Streamlit",
-        "Gemini AI"
-    ]
-
-    interests = [
-        "ETL Pipelines",
-        "Data Lakehouses",
-        "Cloud Technologies",
-        "Backend Systems"
-    ]
-
+    tech_stack = [ "Python","SQL", "PySpark", "Databricks","Apache Airflow","dbt","Delta Lake","Streamlit","Gemini AI"]
+    interests = [ "ETL Pipelines","Data Lakehouses", "Cloud Technologies", "Backend Systems"]
     currently = "Building AI-powered data engineering projects 🚀"
-
     fun_fact = "Coffee ☕ + Data 📊 = My favourite workflow."
 ```
 
@@ -97,64 +71,65 @@ class Disha:
 ## ⚡ Skills Snapshot
 
 <div align="center">
-
 | 💻 Domain | 🚀 Technologies |
 |:---|:---|
-| 🔧 Data Engineering | PySpark · Databricks · Apache Airflow · dbt |
-| 🖥️ Backend Development | FastAPI · SQLAlchemy · REST APIs · JWT Auth |
-| 📈 Analytics & BI | Power BI · Pandas · NumPy · Spark SQL |
-| 🗄️ Databases | MySQL · SQLite |
-| 🛠️ DevOps & Tools | Git · GitHub · Docker · VS Code · Azure |
+| 🔧 **Data Engineering** | PySpark · Databricks · Delta Lake · Apache Airflow · dbt |
+| 📊 **Data Analytics** | SQL · Power BI · Pandas · NumPy |
+| ☁️ **Cloud** | Azure Data Factory · Azure Data Lake |
+| 🤖 **AI** | Gemini AI · Streamlit · OpenAI API |
+| 🛠️ **Tools** | Git · GitHub · Docker · VS Code |
 
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
 <div align="center">
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">⚡ Smart Task API</h3>
+      <h3 align="center">🏔️ MountainStay AI</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLAlchemy-CC2927?style=flat-square&logo=databricks&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
       </p>
-      <p>✨ Clean FastAPI backend with JWT Auth, CRUD APIs, SQLAlchemy ORM & full Pytest coverage</p>
+      <p>✨ AI-powered homestay analytics platform featuring Medallion Architecture, ETL pipelines, interactive dashboards, and conversational business insights using Gemini AI.</p>
     </td>
+
     <td width="50%">
       <h3 align="center">📡 Weather Data Pipeline</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REST API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
       </p>
-      <p>✨ Automated ETL pipeline with Apache Airflow, REST APIs, validation checks & error handling</p>
+      <p>✨ Automated ETL pipeline using Apache Airflow to ingest weather data, validate records, and schedule reliable workflows.</p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
-      <h3 align="center">🔥 Attendance Analytics</h3>
+      <h3 align="center">⚡ Smart Task API</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
       </p>
-      <p>✨ Distributed analytics with PySpark + Databricks. Spark SQL & optimized transformations</p>
+      <p>✨ RESTful task management API with JWT authentication, CRUD operations, SQLAlchemy ORM, and automated testing.</p>
     </td>
+
     <td width="50%">
-      <h3 align="center">📊 Power BI Dashboard</h3>
+      <h3 align="center">📊 Business Intelligence Dashboard</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
       </p>
-      <p>✨ Interactive KPI dashboards with trend analysis, data storytelling & business insights</p>
+      <p>✨ Interactive dashboards to visualize KPIs, business trends, and performance metrics for data-driven decision making.</p>
     </td>
   </tr>
 </table>
 </div>
-
-
-
 
 ## 🌐 Connect With Me
 
