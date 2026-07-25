@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:6e07f7,100:d318ff&height=280&section=header&text=Disha%20Chandra&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Backend%20Dev&descSize=20&descAlignY=62&descColor=d4aaff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:6e07f7,100:d318ff&height=280&section=header&text=Disha%20Chandra&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20" width="100%"/>
 
 <!-- Animated Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Turning+raw+data+into+meaningful+stories+%E2%9C%A8;Data+Engineer+%26+Backend+Developer+%F0%9F%9A%80;PySpark+%7C+FastAPI+%7C+Cloud+Technologies+%E2%98%81%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%92%9C)](https://git.io/typing-svg)
