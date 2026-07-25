@@ -99,7 +99,7 @@
       <p>✨ AI-powered homestay analytics platform featuring Medallion Architecture, ETL pipelines, interactive dashboards, and conversational business insights using Gemini AI.</p>
     </td>
 
-    <td width="50%">
+<td width="50%">
       <h3 align="center">📡 Weather Data Pipeline</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
@@ -120,7 +120,7 @@
       <p>✨ RESTful task management API with JWT authentication, CRUD operations, SQLAlchemy ORM, and automated testing.</p>
     </td>
 
-    <td width="50%">
+<td width="50%">
       <h3 align="center">📊 Business Intelligence Dashboard</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
